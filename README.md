@@ -1,4 +1,7 @@
-### Features
+## TraduCode
+TraduCode is an intuitive web application designed to convert algorithms into code seamlessly. Whether you're a student learning to code, a developer looking for a quick algorithm-to-code conversion, or an enthusiast exploring the intersections of logic and programming, TraduCode simplifies the process. Built with HTML, CSS, and JavaScript, this app ensures a user-friendly experience with powerful functionality.
+
+## Features
 Algorithm Input: Easy-to-use interface to input algorithms in natural language or pseudocode.
 Code Conversion: Translates algorithms (Java, Python ) to code.
 Syntax Highlighting: Displays the generated code with syntax highlighting for better readability.
