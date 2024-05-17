@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algorithm Converter</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" href="22.png" type="image/png">
+
+</head>
+<body>
+    <header>
+        <nav>
+           <a href="Main.html"> <button class="btn">Home page</button></a>
+        </nav>
+    </header>
+    <video autoplay loop muted>
+        <source src="12.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+   
+    <center>
+    <div class="container">
+        <h1>Algorithm to Code Converter</h1>
+        <p> Tools provide the best Converter for Algorithm to Code Converter. We can use coding algorithms to convert our code into Java, Python</p>
+    <label for="language">Select Language:</label>
+    <select id="language">
+        <option value="java">Java</option>
+        <option value="python">Python</option>
+    </select>
+    <button id="toggleButton" onclick="toggleLanguage()">Switch to Python</button>
+    <br><br>
+    <textarea id="algorithm" name="algorithm" rows="10" cols="50" placeholder="Enter your algorithm here..."></textarea>
+    <br><br>
+    <button  class="ui-btn" onclick="convertAlgorithm()" ><span>
+        Convert Algorithm
+      </span></button>
+    <br><br>
+    <div id="output">
+        <textarea id="convertedCode" name="convertedCode" rows="10" cols="50" readonly></textarea>
+        <br><br>
+        <select id="format">
+            <option value="txt">Text (TXT)</option>
+            <option value="word">Word (DOCX)</option>
+            <option value="pdf">PDF</option>
+        </select>
+        <button onclick="downloadCode()">Download</button>
+    </div>  
+</div>
+    <script src="script.js"></script>
+</center>
+
+
+</body>
+</html>
