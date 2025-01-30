@@ -1,13 +1,38 @@
-## TraduCode
-TraduCode is an intuitive web application designed to convert algorithms into code seamlessly. Whether you're a student learning to code, a developer looking for a quick algorithm-to-code conversion, or an enthusiast exploring the intersections of logic and programming, TraduCode simplifies the process. Built with HTML, CSS, and JavaScript, this app ensures a user-friendly experience with powerful functionality.
+# TraduCode 🔄
 
-## Features
-Algorithm Input: Easy-to-use interface to input algorithms in natural language or pseudocode.
-Code Conversion: Translates algorithms (Java, Python ) to code.
-Syntax Highlighting: Displays the generated code with syntax highlighting for better readability.
-Responsive Design: Ensures usability across different devices and screen sizes.
-Copy to Clipboard: Quickly copy the generated code with a single click.
-## Technologies Used
-HTML5: For structuring the app and creating an intuitive layout.
-CSS3: For styling the app and providing a responsive and visually appealing interface.
-JavaScript: For implementing the core functionality of converting algorithms to code and enhancing interactivity.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+**TraduCode** est une application web open source qui transforme des algorithmes ou pseudocodes en code prêt à l'emploi (Python, Java). Idéal pour les étudiants, enseignants et développeurs cherchant à accélérer leur workflow.
+
+
+---
+
+## ✨ Fonctionnalités
+
+- **Conversion Algorithm → Code**  
+  Transformez des descriptions en langage naturel ou pseudocode en code Python/Java.
+- **Coloration Syntaxique**  
+  Mise en évidence du code généré pour une meilleure lisibilité.
+- **Interface Minimaliste**  
+  Design responsive et accessible sur tous les appareils.
+- **Copie Rapide**  
+  Bouton "Copier" pour réutiliser le code en un clic.
+- **Support Multi-Langages**  
+  Python et Java pour le moment, avec plans pour C++/JavaScript.
+
+---
+
+## 🚀 Utilisation
+
+1. **Saisir l'algorithme** :  
+   Écrivez votre logique en langage naturel (ex: *"Si âge > 18, afficher 'Majeur'"*).
+2. **Choisir la langue cible** :  
+   Sélectionnez Python ou Java dans le menu déroulant.
+3. **Générer le code** :  
+   Cliquez sur **Convertir** pour obtenir le code optimisé.
+4. **Copier/Partager** :  
+   Utilisez le bouton "📋 Copier" pour exporter le résultat.
+
+
