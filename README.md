@@ -4,35 +4,33 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
-**TraduCode** est une application web open source qui transforme des algorithmes ou pseudocodes en code prêt à l'emploi (Python, Java). Idéal pour les étudiants, enseignants et développeurs cherchant à accélérer leur workflow.
-
-
----
-
-## ✨ Fonctionnalités
-
-- **Conversion Algorithm → Code**  
-  Transformez des descriptions en langage naturel ou pseudocode en code Python/Java.
-- **Coloration Syntaxique**  
-  Mise en évidence du code généré pour une meilleure lisibilité.
-- **Interface Minimaliste**  
-  Design responsive et accessible sur tous les appareils.
-- **Copie Rapide**  
-  Bouton "Copier" pour réutiliser le code en un clic.
-- **Support Multi-Langages**  
-  Python et Java pour le moment, avec plans pour C++/JavaScript.
+**TraduCode** is an open source web application that transforms algorithms or pseudocodes into ready-to-use code (Python, Java). Ideal for students, teachers and developers looking to speed up their workflow.
 
 ---
 
-## 🚀 Utilisation
+## ✨ Features
 
-1. **Saisir l'algorithme** :  
-   Écrivez votre logique en langage naturel 
-2. **Choisir la langue cible** :  
-   Sélectionnez Python ou Java dans le menu déroulant.
-3. **Générer le code** :  
-   Cliquez sur **Convertir** pour obtenir le code optimisé.
-4. **Copier/Partager** :  
-   Utilisez le bouton "📋 Copier" pour exporter le résultat.
+- **Algorithm → Code Conversion**
+Transform natural language or pseudocode descriptions into Python/Java code.
+- **Syntax Highlighting**
+Highlight generated code for better readability.
+- **Minimalist Interface**
+Responsive design and accessible on all devices.
+- **Quick Copy**
+"Copy" button to reuse code in one click.
+- **Multi-Language Support**
+Python and Java for now, with plans for C++/JavaScript.
 
+---
+
+## 🚀 Usage
+
+1. **Enter the algorithm** :
+Write your logic in natural language
+2. **Choose the target language** :
+Select Python or Java from the drop-down menu.
+3. **Generate the code** :
+Click **Convert** to get the optimized code.
+4. **Copy/Share** :
+Use the "📋 Copy" button to export the result.
 
