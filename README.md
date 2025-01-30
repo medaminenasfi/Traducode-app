@@ -27,7 +27,7 @@
 ## 🚀 Utilisation
 
 1. **Saisir l'algorithme** :  
-   Écrivez votre logique en langage naturel (ex: *"Si âge > 18, afficher 'Majeur'"*).
+   Écrivez votre logique en langage naturel 
 2. **Choisir la langue cible** :  
    Sélectionnez Python ou Java dans le menu déroulant.
 3. **Générer le code** :  
