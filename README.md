@@ -4,7 +4,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
-**TraduCode** is an open source web application that transforms algorithms or pseudocodes into ready-to-use code (Python, Java). Ideal for students, teachers and developers looking to speed up their workflow.
+**TraduCode** is an open source web application that transforms algorithms or pseudocodes into ready-to-use code (Python, Java ). Ideal for students, teachers and developers looking to speed up their workflow.
 
 ---
 
